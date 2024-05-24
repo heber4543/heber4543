@@ -4,7 +4,7 @@
 
 ### My interests are:
 
-- 🐭 Experimental psychology
+- 🐭 Experimental psychology 
 - 🤖 Application of technologies to experimental and clinical psychology
 - 📈 Modeling of cognitive processes
 - 📶 Data analysis (e.g. business analytics)
