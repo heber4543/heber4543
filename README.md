@@ -1,6 +1,4 @@
-#<p align="center">
-  # Hello 👋🏽
-</p>
+<h1 align="center">Hello 👋🏽</h1>
 
 ![texto cualquiera por si no carga la imagen](https://github.com/heber4543/heber4543/blob/main/banner.png)
 
