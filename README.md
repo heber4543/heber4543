@@ -1,5 +1,7 @@
 # About me 👋🏽
-
+\begin{center}
+Texto
+\end{center}
 ## I´m Degree in 🧠Psychology🧠
 
 ### My interests are:
