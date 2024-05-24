@@ -7,5 +7,4 @@
 - 🐭 Experimental psychology
 - 🤖 Application of technologies to experimental and clinical psychology
 - 📈 Modeling of cognitive processes
-- 📶 Data analysis for business
-
+- 📶 Data analysis (e.g. business analytics)
