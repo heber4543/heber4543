@@ -1,6 +1,6 @@
 # About me 👋🏽
 
-![https://github.com/heber4543/heber4543/blob/main/banner.png]
+!(https://www.canva.com/design/DAGGLsTzbvs/wQekypWqVYO6uurXlxUngQ/edit?utm_content=DAGGLsTzbvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## I´m Degree in 🧠Psychology🧠
 
