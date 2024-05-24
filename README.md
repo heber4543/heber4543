@@ -1,9 +1,8 @@
-## About me 
-**heber4543/heber4543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me 
 
-I´m Degree in 🧠Psychology🧠
+##I´m Degree in 🧠Psychology🧠
 
-My interests are:
+###My interests are:
 
 - 🐭 Experimental psychology
 - 🤖 Application of technologies to experimental and clinical psychology
