@@ -1,6 +1,6 @@
 # About me 👋🏽
 
-![texto cualquiera por si no carga la imagen](url completa de la imagen)
+![texto cualquiera por si no carga la imagen](https://www.canva.com/design/DAGGLsTzbvs/wQekypWqVYO6uurXlxUngQ/edit?utm_content=DAGGLsTzbvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## I´m Degree in 🧠Psychology🧠
 
