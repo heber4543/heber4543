@@ -4,7 +4,7 @@
 
 ## I´m Degree in 🧠Psychology🧠
 
-### My interests are:
+**My interests are:**
 
 - 🐭 Experimental psychology 
 - 🤖 Application of technologies to experimental and clinical psychology
