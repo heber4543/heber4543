@@ -1,4 +1,8 @@
-# About me 👋🏽
+# Hello 👋🏽
+
+<p align="center">
+  This text is centered on GitHub.
+</p>
 
 ![texto cualquiera por si no carga la imagen](https://github.com/heber4543/heber4543/blob/main/banner.png)
 
