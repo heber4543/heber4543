@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋🏽</h1>
 
-## I´m Degree in 🧠Psychology🧠
+## I have a degree in Psychology and I’m currently pursuing a Master’s in Computer Engineering.
 **My interests are:**
 
 - 🐭 Experimental psychology 
-- 🤖 Application of technologies to experimental and clinical psychology
-- 📈 Modeling of cognitive processes
+- 🤖🧠 Computational psychiatry
+- 💻🧍‍♂️ Human - Computer Interaction
